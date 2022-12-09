@@ -1,0 +1,3 @@
+a=input("enter the value")
+b=len(a)
+print("the length of given number is",b)
