@@ -1,0 +1,6 @@
+a=int(input("enter the value to be multiplied\n"))
+b=1
+c=1
+for i in range(b,11):
+    c=a*i
+    print(a,"*",i,"=",c)
